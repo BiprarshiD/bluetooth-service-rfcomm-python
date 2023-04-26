@@ -109,6 +109,8 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Reference
 
+http://www.embeddedlinux.org.cn/essentiallinuxdevicedrivers/final/ch16lev1sec1.html
+
 [Bluetooth Programming with Python 3](http://blog.kevindoran.co/bluetooth-programming-with-python-3)
 
 [Bluetooth programming with Python - PyBluez](https://people.csail.mit.edu/albert/bluez-intro/x232.html)
